@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+    background-color: azure;
+}
+header{
+    background-color: lightyellow;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+h2{
+    text-align: center;
+    color: green;
+}
+img src {
+    text-align: center;
+}
+.logo{
+    width: 300px;
+    height: 220px;
+}
+.contacts{
+   background-color: purple; 
+   color: white;
+   padding: 10px 25px;
+   border-radius: 10px;
+   font-size: 16px;
+}
+main{
+    background-color: lightcyan;
+    padding: 5px;
+}
+main p{
+    color: purple;
+    font-size: 22px;
+}
+footer{
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+}
